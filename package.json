@@ -1,0 +1,23 @@
+{
+  "name": "billing",
+  "version": "1.0.0",
+  "description": "Simple payments for everyone.",
+  "keywords": [
+    "payments"
+  ],
+  "homepage": "https://github.com/baseitdev/billing#readme",
+  "bugs": {
+    "url": "https://github.com/baseitdev/billing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baseitdev/billing.git"
+  },
+  "license": "MIT",
+  "author": "baseit.dev & contributors",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
